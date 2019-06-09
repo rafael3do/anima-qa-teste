@@ -1,0 +1,29 @@
+﻿#topo {
+	border-style: solid;
+	border-width: thin;
+	border-color: Black;
+	width: 1024px;
+	height: 180px;
+	background-color: Transparent;
+}
+
+#esquerda {
+	border-style: solid;
+	border-width: thin;
+	border-color: Black;
+	float: left;
+	width: 180px;
+	height: 300px;
+	margin-top: 2px;
+}
+
+#direita {
+	border-style: solid;
+	border-width: thin;
+	border-color: Black;
+	float: left;
+	width: 768px;
+	height: 400px;
+	margin-top: 2px;
+	margin-left: 2px;
+}
