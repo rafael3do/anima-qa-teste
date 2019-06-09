@@ -1,0 +1,42 @@
+﻿topo {
+	border-style: solid;
+	border-width: thin;
+	border-color: Black;
+	width: 780px;
+	height: 80px;
+	background-color: Transparent;
+}
+
+esquerda {
+
+	border-style: solid;
+	border-width: thin;
+	border-color: Black;
+	float: left;
+	width: 80px;
+	height: 300px;
+	margin-top: 2px;
+}
+
+direita {
+	border-style: solid;
+	border-width: thin;
+	border-color: Black;
+	float: left;
+	width: 696px;
+	height: 300px;
+	margin-top: 2px;
+	margin-left: 2px;
+}
+col s12 {
+	width: 100%;
+	margin-left: auto;
+	left: auto;
+	right: auto
+}
+col s6 {
+	width: 50%;
+	margin-left: auto;
+	left: auto;
+	right: auto
+}
