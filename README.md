@@ -19,6 +19,6 @@ Cenário: Cadastro com sucesso
   E "Feminino" no campo "Gênero"
   E "26" no campo "Idade"
 Quando realizo o cadastro do usuario
-Então visualizo a mensagem de sucesso "Usuário Criado com sucesso"
+Então visualizo a mensagem de sucesso "Usuário Criado com sucesso".
 
 Sistema completo e finalizado.
